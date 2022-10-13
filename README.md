@@ -43,7 +43,8 @@
 
 ## 🛠 Tech Stack
 ### Main
-<img src="https://img.shields.io/badge/java-339933?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/kotlin-339933?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
